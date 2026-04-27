@@ -43,6 +43,3 @@ document.getElementById("form-login").onsubmit = (e) => {
   document.getElementById("form-login").reset();
 };
 
-
-
-$enable-dark-mode	true (default) or false
